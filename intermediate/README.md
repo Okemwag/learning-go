@@ -16,6 +16,9 @@ Suggested order:
 10. `10_standard_library/`
 11. `11_context/`
 12. `12_testing/`
+13. `13_filesystem/`
+14. `14_templates/`
+15. `15_database_sql/`
 
 Run one example at a time with `go run`, for example:
 

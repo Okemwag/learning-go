@@ -54,6 +54,9 @@ Move here once the syntax feels natural:
 - standard library: io, time, json, http, slog
 - context
 - testing
+- filesystem APIs
+- templates
+- database/sql
 - explicit error handling
 - networking with TCP
 
